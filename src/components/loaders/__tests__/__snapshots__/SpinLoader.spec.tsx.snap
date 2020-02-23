@@ -1,7 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`SpinLoader test tests SpinLoader test render correctly 1`] = `
-<div
-  className="css-q816ym"
-/>
-`;
